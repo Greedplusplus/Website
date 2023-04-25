@@ -1,0 +1,9 @@
+"version": "0.2.0",
+"configurations": [
+    {
+        "type": "msedge",
+        "request": "launch",
+        "name": "Open client.html",
+        "url": "http://localhost:8080"
+    }
+]
